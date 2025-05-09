@@ -456,3 +456,4 @@ C:\Users\Admin\source\repos\TestPW\TestPW\obj\Debug\net8.0\refint\TestPW.dll
 C:\Users\Admin\source\repos\TestPW\TestPW\obj\Debug\net8.0\TestPW.pdb
 C:\Users\Admin\source\repos\TestPW\TestPW\obj\Debug\net8.0\TestPW.genruntimeconfig.cache
 C:\Users\Admin\source\repos\TestPW\TestPW\obj\Debug\net8.0\ref\TestPW.dll
+C:\Users\Admin\source\repos\TestPW\TestPW\obj\Debug\net8.0\TestPW.sourcelink.json

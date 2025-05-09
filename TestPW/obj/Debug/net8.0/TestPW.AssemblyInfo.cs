@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TestPW")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ba6a1686db0758335d2bff9f72ca29b98b8fb8cb")]
 [assembly: System.Reflection.AssemblyProductAttribute("TestPW")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TestPW")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
